@@ -1,0 +1,14 @@
+div.kotak
+{
+    background-color: brown;
+    color: darkgoldenrod;
+    width: 350px;
+    height: 400px;
+}
+span.monyet
+{
+    background-color: bisque;
+    color: blue;
+    font-size: 72px;
+    border: 1px dashed greenyellow;
+}
